@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipekbtuncer
 - 👀 I’m interested in Web Developent
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me ipekbtuncer@gmail.com
 
 <!---
